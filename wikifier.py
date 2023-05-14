@@ -1,15 +1,15 @@
 import urllib.parse, urllib.request, json
 
-def CallWikifier(text, lang="en", threshold=0.8):
+def CallWikifier(text, lang="en", threshold=-1):
     # Prepare the URL.
     data = urllib.parse.urlencode([
         ("text", text), ("lang", lang),
         ("userKey", "zuseqohhtjiksmyksrxruvssndndxj"),
-        ("pageRankSqThreshold", "%g" % threshold), ("applyPageRankSqThreshold", "true"),
+        ("pageRankSqThreshold", "%g" % threshold), ("applyPageRankSqThreshold", "false"),
         ("nTopDfValuesToIgnore", "200"), ("nWordsToIgnoreFromList", "200"),
         ("wikiDataClasses", "true"), ("wikiDataClassIds", "false"),
         ("support", "true"), ("ranges", "false"), ("minLinkFrequency", "2"),
-        ("includeCosines", "false"), ("maxMentionEntropy", "3")
+        ("includeCosines", "false"), ("maxMentionEntropy", "-1")
         ])
     url = "http://www.wikifier.org/annotate-article"
     # Call the Wikifier and read the response.
