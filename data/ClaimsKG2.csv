@@ -15,8 +15,7 @@ Must contain: calcium
 Must contain: vitamin D
 - Unit: μg/daily portion
 - Value: 15
-","https://foodb.ca/compounds/FDB00351;
-https://foodb.ca/compounds/FDB021586 ",Food supplements which provide at least 400mg of calcium and 15 μg of vitamin D per daily portion,"Calcium
+",https://foodb.ca/compounds/FDB00351; https://foodb.ca/compounds/FDB021586 ,Food supplements which provide at least 400mg of calcium and 15 μg of vitamin D per daily portion,"Calcium
 - unit: mg/day
 - value: 400
 
@@ -124,8 +123,7 @@ Must contain: calcium
 and
 vitamin D
 - Unit: μg/100g or μg/100ml or μg/portion
-- Value: ≥0,75","https://foodb.ca/compounds/FDB00351;
-https://foodb.ca/compounds/FDB021586 ",,"Calcium
+- Value: ≥0,75",https://foodb.ca/compounds/FDB00351; https://foodb.ca/compounds/FDB021586 ,,"Calcium
 - Unit: mg/100g or mg/100ml or mg/portion
 - Value: ≥120
 and

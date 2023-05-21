@@ -1,13 +1,13 @@
 import urllib.parse, urllib.request, json
 
-def CallWikifier(text, lang="en", threshold=-1):
+def CallWikifier(text, lang="en", threshold= -1):
     # Prepare the URL.
     data = urllib.parse.urlencode([
         ("text", text), ("lang", lang),
         ("userKey", "zuseqohhtjiksmyksrxruvssndndxj"),
-        ("pageRankSqThreshold", "%g" % threshold), ("applyPageRankSqThreshold", "false"),
+        ("pageRankSqThreshold", "%g" % threshold), ("applyPageRankSqThreshold", "true"),
         ("nTopDfValuesToIgnore", "200"), ("nWordsToIgnoreFromList", "200"),
-        ("wikiDataClasses", "true"), ("wikiDataClassIds", "false"),
+        ("wikiDataClasses", "true"), ("wikiDataClassIds", "true"),
         ("support", "true"), ("ranges", "false"), ("minLinkFrequency", "2"),
         ("includeCosines", "false"), ("maxMentionEntropy", "-1")
         ])
