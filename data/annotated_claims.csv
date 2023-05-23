@@ -19,7 +19,7 @@ Calcium contributes to the normal function of digestive enzymes,['Calcium'],['di
 Calcium has a role in the process of cell division and specialisation,['Calcium'],"['cell division', 'specialisation']","['maintenance of function', 'maintenance of function']"
 Calcium is needed for the maintenance of normal bones,['Calcium'],['normal bones'],['maintenance of function']
 Calcium is needed for the maintenance of normal teeth,['Calcium'],['normal teeth'],['maintenance of function']
-Carbohydrate-electrolyte solutions contribute to the maintenance of endurance performing during prolonged endurance exercise ,['carbohydrate-electrolyte solutions'],"['maintenance of endurance', 'prolonged endurance exercise']",['contribute to the maintenance of']
+Carbohydrate-electrolyte solutions contribute to the maintenance of endurance performing during prolonged endurance exercise ,['Carbohydrate-electrolyte solutions'],"['maintenance of endurance', 'prolonged endurance exercise']",['contribute to the maintenance of']
 Carbohydrate-electrolyte solutions enhance the absorption of water during physical exercise,['Carbohydrate-electrolyte solutions'],"['water', 'physical exercise']",['enhancing a function']
 Carbohydrates contribute to the maintenance of normal brain function,['Carbohydrates'],['normal brain function'],['enhancing a function']
 Chitosan contributes to the maintenance of normal blood cholesterol levels,['Chitosan'],['normal blood cholesterol levels'],['contributes to the maintenance of']
@@ -34,7 +34,7 @@ Consumption of alpha-cyclodextrin as a part of a starch-containing meal contribu
 Consumption of arabinoxylan as part of a meal contributes to a reduction of the blood glucose rise after that meal ,"['arabinoxylan', 'meal']",['blood glucose'],['reducing a risk factor']
 Consumption of beta-glucans from oats or barley as part of a meal contributes to the reduction of the blood glucose rise after that meal ,"['beta-glucans', 'oats', 'barley']",['blood glucose'],['reducing a risk factor']
 Consumption of foods containing fructose leads to a lower blood glucose rise compared to foods containing sucrose or glucose ,"['fructose', 'sucrose', 'glucose']",['blood glucose'],"['reducing a risk factor', 'enhancing a function', 'enhancing a function']"
-Consumption of foods/drinks containing [name of sugar replacer] instead of sugar* contributes to the maintenance of tooth mineralisation,[['name of sugar replacer']],['tooth mineralisation'],['enhances function']
+Consumption of foods/drinks containing [name of sugar replacer] instead of sugar* contributes to the maintenance of tooth mineralisation,['name of sugar replacer'],['tooth mineralisation'],['enhances function']
 Consumption of foods/drinks containing [name of sugar replacer] instead of sugar* induces a lower blood glucose rise after their consumption compared to sugar-containing foods/drinks,"['sugar replacer', 'sugar']","['blood glucose', 'consumption']","['reducing a risk factor', 'maintenance of function']"
 Consumption of pectins with a meal contributes to the reduction of the blood glucose rise after that meal,"['pectins', 'meal']",['blood glucose'],['reducing a risk factor']
 Copper contributes to maintenance of normal connective tissues,['Copper'],['connective tissues'],['enhancing a function']
@@ -73,7 +73,7 @@ Iodine contributes to the maintenance of normal skin,['Iodine'],['normal skin'],
 Iodine contributes to the normal production of thyroid hormones and normal thyroid function,['Iodine'],"['thyroid hormones', 'thyroid function']",['contributing to']
 Iron contributes to normal cognitive function,['Iron'],['cognitive function'],['enhancing a function']
 Iron contributes to normal energy-yielding metabolism,['Iron'],['normal energy-yielding metabolism'],['contributes to']
-Iron contributes to normal formation of red blood cells and haemoglobin,['iron'],"['red blood cells', 'haemoglobin']","['enhancing a function', 'enhancing a function']"
+Iron contributes to normal formation of red blood cells and haemoglobin,['Iron'],"['red blood cells', 'haemoglobin']","['enhancing a function', 'enhancing a function']"
 Iron contributes to normal oxygen transport in the body,['Iron'],"['oxygen transport', 'body']",['enhances function']
 Iron contributes to the normal function of the immune system,['Iron'],['immune system'],['contributes to the normal function of']
 Iron contributes to the reduction of tiredness and fatigue,['Iron'],['reduction of tiredness and fatigue'],['reducing a risk factor']
@@ -131,7 +131,7 @@ Replacing digestible starches with resistant starch in a meal contributes to a r
 Replacing saturated fats in the diet with unsaturated fats contributes to the maintenance of normal blood cholesterol levels. Oleic acid is an unsaturated fat. ,"['saturated fats', 'unsaturated fats', 'Oleic acid']",['normal blood cholesterol levels'],"['reducing a risk factor', 'maintenance of function']"
 Replacing saturated fats with unsaturated fats in the diet contributes to the maintenance of normal blood cholesterol levels [MUFA and PUFA are unsaturated fats],"['saturated fats', 'unsaturated fats', 'diet', 'MUFA', 'PUFA']",['normal blood cholesterol levels'],"['reducing a risk factor', 'maintenance of function']"
 Riboflavin contributes to normal energy-yielding metabolism,['Riboflavin'],['normal energy-yielding metabolism'],['contributing to']
-Riboflavin contributes to normal functioning of the nervous system,['riboflavin'],['nervous system'],['maintenance of function']
+Riboflavin contributes to normal functioning of the nervous system,['Riboflavin'],['nervous system'],['maintenance of function']
 Riboflavin contributes to the maintenance of normal mucous membranes,['Riboflavin'],['maintenance of normal mucous membranes'],['contributes to']
 Riboflavin contributes to the maintenance of normal red blood cells,['Riboflavin'],['red blood cells'],['maintenance of function']
 Riboflavin contributes to the maintenance of normal skin,['Riboflavin'],['normal skin'],['contributes to the maintenance of function']
@@ -230,7 +230,7 @@ Zinc contributes to the protection of cells from oxidative stress,['Zinc'],['oxi
 Zinc has a role in the process of cell division,['Zinc'],['cell division'],['enhancing a function']
 Carbohydrates contribute to the recovery of normal muscle function (contraction) after highly intensive and/or long-lasting physical exercise leading to muscle fatigue and the depletion of glycogen stores in skeletal muscle,['Carbohydrates'],"['normal muscle function', 'contraction', 'highly intensive', 'long-lasting', 'physical exercise', 'muscle fatigue', 'depletion of glycogen stores']","['contribute to the recovery of', 'leading to', 'and the depletion of glycogen stores', 'contributing to']"
 Consumption of foods/drinks containing [name of all used non-digestible carbohydrates] instead of sugars induces a lower blood glucose rise after their consumption compared to sugar-containing foods/drinks,"['foods/drinks', 'non-digestible carbohydrates', 'sugars']","['blood glucose', 'consumption']","['reducing a risk factor', 'maintenance of function', 'enhancing a function']"
-Consumption of foods/drinks containing [name of all used non-fermentable carbohydrates] instead of fermentable carbohydrates contributes to the maintenance of tooth mineralisation,['foods/drinks containing [name of all used non-fermentable carbohydrates]'],['tooth mineralisation'],['maintenance of function']
+Consumption of foods/drinks containing [name of all used non-fermentable carbohydrates] instead of fermentable carbohydrates contributes to the maintenance of tooth mineralisation,['foods/drinks containing (name of all used non-fermentable carbohydrates)'],['tooth mineralisation'],['maintenance of function']
 Daily creatine consumption can enhance the effect of resistance training on muscle strength in adults over the age of 55,['creatine'],"['resistance training', 'muscle strength', 'adults over the age of 55']",['enhancing a function']
 Lactitol contributes to normal bowel function by increasing stool frequency,['Lactitol'],"['normal bowel function', 'stool frequency']","['enhancing a function', 'enhancing a function']"
 Sugar beet fibre contributes to an increase in faecal bulk,['Sugar beet fibre'],['faecal bulk'],['contributes to an increase in']
@@ -253,7 +253,7 @@ Docosahexaenoic acid (DHA) intake contributes to the normal visual development o
 Docosahexaenoic acid (DHA) maternal intake contributes to the normal brain development of the foetus and breastfed infants,['Docosahexaenoic acid'],"['maternal', 'brain development', 'foetus', 'breastfed', 'infants']","['enhancing a function', 'maintenance of function']"
 Docosahexaenoic acid (DHA) materrnal intake contributes to the normal development of the eye of the foetus and breastfed infants,['Docosahexaenoic acid'],"['maternal intake', 'normal development', 'eye', 'foetus', 'breastfed infants']","['maintenance of function', 'enhancing a function', 'reduces a risk factor', 'enhances a function', 'enhances a function']"
 Essential fatty acids are needed for normal growth and development of children,['Essential fatty acids'],"['normal growth', 'development of children']","['maintenance of function', 'maintenance of function']"
-Iodine contributes to the normal grrowth of children,['iodine'],['normal growth of children'],['contributing to']
+Iodine contributes to the normal grrowth of children,['Iodine'],['normal growth of children'],['contributing to']
 Iron contributes to normal cognitive development of children,['Iron'],"['cognitive development', 'children']",['maintenance of function']
 Phosphorus is needed for the normal growth and development of bone in children,['Phosphorus'],"['bone', 'children']","['enhancing a function', 'enhancing a function']"
 Protein is needed for normal growth and development of bone in children,['Protein'],"['normal growth', 'development of bone', 'children']","['maintenance of function', 'maintenance of function', 'maintenance of function']"
