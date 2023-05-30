@@ -1,7 +1,0 @@
-,claim,annotation_text,dbPediaIri,locations
-0,ALA contributes to the maintenance of normal blood cholesterol levels,Cholesterol,http://dbpedia.org/resource/Cholesterol,"[(9, 11), (9, 11)]"
-1,Activated charcoal contributes to reducing exessive flatulence after eating,Activated carbon,http://dbpedia.org/resource/Activated_carbon,"[(1, 16), (2, 16)]"
-2,Activated charcoal contributes to reducing exessive flatulence after eating,Flatulence,http://dbpedia.org/resource/Flatulence,"[(7, 10)]"
-3,Barley grain fibre contributes to an increase in faecal bulk,Barley,http://dbpedia.org/resource/Barley,"[(1, 6)]"
-4,Barley grain fibre contributes to an increase in faecal bulk,Grain,,"[(2, 5)]"
-5,Beta-glucans contribute to the maintenance of normal blood cholesterol levels,Cholesterol,http://dbpedia.org/resource/Cholesterol,"[(9, 11), (9, 11)]"
