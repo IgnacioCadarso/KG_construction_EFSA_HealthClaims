@@ -1,7 +1,7 @@
 # Project Name: KG construction from EFSA Health Claims
 
 ## main.ipynb
-In this notebook claims present in the ClaimsKG and ClaimsKG2 datasets are annotated using OpenAI's [GPT-3.5 Turbo model](https://api.collaboratory.semanticscience.org/docs#/entity%20recognition/Extract_entities_and_relations_from_text_using_OpenAI_models_openai_extract_post) and the [Wikifier](https://wikifier.org/). The annotations are made on the basis of the food entities, phenotype, and the health relationship mentioned in the dataset. The annotated claims are then evaluated based on the predicted food terms using the precision, recall, and F1-score.
+In this notebook claims present in the ClaimsKG and ClaimsKG2 datasets are annotated using OpenAI's [GPT-3.5 Turbo model](https://api.collaboratory.semanticscience.org/docs#/entity%20recognition/Extract_entities_and_relations_from_text_using_OpenAI_models_openai_extract_post) and [Wikifier](https://wikifier.org/). The annotations are made on the basis of the food entities, phenotype, and the health relationship mentioned in the dataset. The annotated claims are then evaluated based on the predicted food terms using the precision, recall, and F1-score.
 
 ### Libraries Required
 - pandas
@@ -12,7 +12,7 @@ In this notebook claims present in the ClaimsKG and ClaimsKG2 datasets are annot
 
 
 ### Dataset
-The files ClaimsKG.csv and ClaimsKG2.csv contain all information taken from EFSA health claims. ClaimsKG.csv contains art. 13 claims and ClaimsKG2.csv contain art.14 claims. These files can be found in the 'data' folder in csv format.
+The files ClaimsKG.csv and ClaimsKG2.csv contain all information taken from EFSA health claims. ClaimsKG.csv contains [art. 13](https://www.efsa.europa.eu/en/topics/topic/general-function-health-claims-under-article-13) claims and ClaimsKG2.csv contain [art.14](https://www.efsa.europa.eu/en/topics/topic/claims-disease-risk-reduction-and-child-development-or-health-under) claims. These files can be found in the 'data' folder in csv format.
 
 ### NER Task
 The NER task involves annotating the claims using the OpenAI GPT-3.5 Turbo model. The function annotateClaimsKG() sends each claim text to the model, extracts entities of types "Food Entity" and "Phenotype," and returns the results as a YAML object with the fields "entities" and "association." The annotated results are saved in the 'annotated_claims.csv' file.
