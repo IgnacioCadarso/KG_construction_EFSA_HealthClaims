@@ -31,10 +31,11 @@ In the first approach, the Wikifier API is called separately for each predicted 
 
 In the second approach, the Wikifier API is called for each claim, and the relevant entities are annotated. The food terms are extracted by filtering the entities based on their dbpedia iris. If the entities are not of the types "FOOD," "CONDIMENT," or "BEVERAGE," they are removed. The precision, recall, and F1-score of the entity linking are calculated based on the comparison of the Wikifier URLs with the true URLs.
 
-### Relation Extraction (REL) Task
-The relationship labels in the dataset are mapped to the predefined relationship categories: "Maintenance of a function," "Reducing a risk factor," and "Enhancing of a function." This mapping is performed to align the predicted relationship labels with the task's defined categories.
+### Extraction of phenotype task 
+Two approaches are compared the first one poses it as a relation extraction task in the prompt to GPT and the second one poses it as a classification task.
+After GPT predicts the relationship, the relationship labels in the dataset are mapped to the predefined relationship categories: "Maintenance of a function," "Reducing a risk factor," and "Enhancing of a function." This mapping is performed to align the predicted relationship labels with the task's defined categories.
 
-The accuracy of the predicted relationship labels is calculated by comparing them with the true relationship labels in the dataset.
+
 
 ## fooDB_to_wikipedia.ipynb
 This notebook is used to extract the wikipedia urls for the food ontology terms in the ClaimsKG dataset. This is done by scraping the FooDB website and getting the corresponding wikipedia urls for each fooDB ID. After this is done the data is saved in processed_claims.csv
